@@ -7,8 +7,8 @@
     <ProjectGuid>{0E664E3D-CAFD-4F8D-B538-8ABB66076DB1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AethonsFire.Genifer</RootNamespace>
-    <AssemblyName>AethonsFire.Genifer.CSharp</AssemblyName>
+    <RootNamespace>AethonsTools.TextTemplating</RootNamespace>
+    <AssemblyName>AethonsTools.TextTemplating.CSharp</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
