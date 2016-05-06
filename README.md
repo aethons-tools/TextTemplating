@@ -1,0 +1,1 @@
+Genifer is a very simple library for authoring text transform templates. You could build it in an afternoon, but you don't have to!
