@@ -3,6 +3,9 @@
   <metadata>
     <id>AethonsTools.TextTemplating</id>
     <version>$version$</version>
+    <licenseUrl>$licenseUrl$</licenseUrl>
+    <iconUrl>$iconUrl$</iconUrl>
+    <projectUrl>$projectUrl$</projectUrl>
     <title>Aethon's Tools - Text Templating</title>
     <authors>aethon</authors>
     <owners>aethon</owners>
