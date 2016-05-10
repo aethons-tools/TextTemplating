@@ -32,7 +32,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="AethonsTools.Diagnostics, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\AethonsTools.Diagnostics.1.0.0-beta0001\lib\net452\AethonsTools.Diagnostics.dll</HintPath>
+      <HintPath>..\..\packages\AethonsTools.Diagnostics.1.0.0-beta0001-build0012\lib\net452\AethonsTools.Diagnostics.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
